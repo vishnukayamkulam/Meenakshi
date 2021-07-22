@@ -107,13 +107,13 @@ Asena സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങ
 அசேனாவை நிறுவுவதன் மூலம், நீங்கள் இந்த பொறுப்புகளை ஏற்றுக்கொண்டதாக கருதப்படுகிறீர்கள்.
 
 ```
-## Developers
+## Developer
   <div align="center">
     
-  [![vishnu-kayamkulam](https://avatars.githubusercontent.com/u/86889590?v=4?size=60)](https://github.com/vishnu-kayamkulam) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[vishnu-kayamkulam](https://avatars.githubusercontent.com/u/86889590?v=4)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Author, Base, Bug Fixes, Modules , Modifiying as public  | Modifiying  as   public | Bug Fixes, Modules
+  [![vishnu-kayamkulam](https://avatars.githubusercontent.com/u/86889590?v=4?size=60)](https://github.com/vishnu-kayamkulam) |
+
+[vishnu-kayamkulam](https://avatars.githubusercontent.com/u/86889590?v=4)
+Author, Base, Bug Fixes, Modules , Modifiying as public
   </div>
     
 

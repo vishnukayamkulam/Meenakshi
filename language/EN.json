@@ -167,7 +167,7 @@
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*Give me a photo!*",
             "NO_API_KEY": "*You don't have an API key!*\nYou can get it here: remove.bg.",
-            "RBGING": "```Removing background...```"
+            "RBGING": "```Maayikunna sunaapi edukatte💁🏻‍♀️...```"
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
@@ -185,8 +185,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song  LovesickGirls-Blackpink```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*⬇️Downloading your song...🎵*\n",
-            "UPLOADING_SONG": "\n*⬆️Uploading your song...🎶*\n",
+            "DOWNLOADING_SONG": "*⬇️Downloading your song...🎵*",
+            "UPLOADING_SONG": "*⬆️Uploading your song...🎶*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/ioNng23DkIM ```",
             "DOWNLOADING_VIDEO": "```⬇️Downloading your video💁🏻‍♀️```",

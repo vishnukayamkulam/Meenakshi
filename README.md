@@ -108,14 +108,12 @@ Asena സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങ
 
 ```
 ## Developer
-  <div align="center">
+   <div align="center">
     
-  [![vishnu-kayamkulam](https://avatars.githubusercontent.com/u/86889590?v=4?size=60)](https://github.com/vishnu-kayamkulam) |
-
-[vishnu-kayamkulam](https://avatars.githubusercontent.com/u/86889590?v=4)
-Author, Base, Bug Fixes, Modules , Modifiying as public
-  </div>
-    
+  [![vishnu-kayamkulam](https://avatars.githubusercontent.com/u/86889590?v=4?size=100)](https://github.com/vishnu-kayamkulam) |  
+----|
+[vishnu-kayamkulam](https://github.com/vishnu-kayamkulam)  |
+Author, Base, Bug Fixes, Modules, Modifying as public | 
 
 
 ## License
